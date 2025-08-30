@@ -20,7 +20,7 @@
 ## 🎨 Design Specifications
 
 ### Figma Design Reference
-- **Design Link:** Figma
+- **Design Link:** [Figma](https://www.figma.com/design/V5MihxWGUW5NnKm6m47xkf/iOS-Posts-App---Technical-Assessment?node-id=3009-19782&t=kuVj5MpFQeWaRoGa-1)
 - Follow the provided UI/UX designs exactly
 - Implement responsive layouts for different screen sizes
 - Match colors, typography, and spacing from Figma specs
